@@ -175,3 +175,5 @@ puzzle = [
         "words": correction3,
     },
 ]
+
+print("Nouveau message")
