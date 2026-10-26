@@ -3,7 +3,7 @@ from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import Color, black
 
-from mots_meles import generate_all_puzzles, GRID_SIZE
+from grid import generate_all_puzzles, GRID_SIZE
 
 PAGE_W, PAGE_H = letter  # 8.5 x 11 pouces (adapte au format KDP choisi)
 
