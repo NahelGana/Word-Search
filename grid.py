@@ -7,6 +7,7 @@ import unicodedata
 # THÈMES : les 3 d'origine + les 109 nouveaux (112 thèmes = 224 grilles)
 # Les mots sont écrits sans accents, en majuscules, sans espaces.
 # ---------------------------------------------------------------
+
 THEMES = {
     "Animaux": ["CHIEN", "CHAT", "ELEPHANT", "SINGE", "LION", "TIGRE", "LAPIN", "OISEAU", "CHEVAL", "LOUP", "GAZELLE", "OURS", "GIRAFE", "DAUPHIN", "PINGOUIN", "ZEBRE", "REQUIN", "AIGLE", "PANDA", "KOALA", "PANTHERE", "CORBEAU", "LAMA", "RENARD"],
     "Voyages": ["AVION", "VALISE", "PASSEPORT", "PLAGE", "NAVIRE", "BAGAGE", "CAMPING", "SAFARI", "VOYAGEUR", "GARE", "HOTEL", "ESCALE", "BATEAU", "ILE", "CARTE", "GUIDE", "SOLEIL", "CROISIERE", "VOLCAN", "DESERT", "MONTAGNE"],
